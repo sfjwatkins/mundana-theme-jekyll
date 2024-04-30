@@ -6,4 +6,6 @@ image: "/assets/images/screenshot.jpg"
 comments: false
 ---
 
-Text here
+ {{ site.description }}
+
+Additional text here
