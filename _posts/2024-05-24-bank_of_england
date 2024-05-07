@@ -3,7 +3,7 @@ layout: post
 title:  "Bank of England Project"
 author: stew
 categories: [ Python, Pandas ]
-image: assets/images/heatmap.JPG
+image: assets/images/finbert_sentiment.JPG
 
 tags: [cleaning, visualisations]
 ---
