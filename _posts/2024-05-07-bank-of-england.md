@@ -8,8 +8,6 @@ image: assets/images/finbert_sentiment.JPG
 tags: [cleaning, visualisations]
 ---
 
-## 1. The Project
-
 The client for this project is the Bank of England. Here is an excerpt from the project briefing, profiling the Bank:
 
 > The Bank of England's mission is to promote the good of the people of the United Kingdom by maintaining monetary and financial stability. The Bank of England plays a multifaceted role in the national economy. Its primary objectives include maintaining price stability and supporting the government’s economic policies. To achieve this, the Bank has control over monetary policy instruments, primarily the setting of interest rates. By altering interest rates, the Bank can influence borrowing costs for businesses and individuals, which in turn affects spending, investment, and inflation. 
