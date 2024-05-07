@@ -3,7 +3,8 @@ layout: post
 title:  "Best Topics for Blog Posts"
 author: stew
 categories: [ Python, Pandas ]
-image: assets/images/blog_posts.JPG
+image: assets/images/heatmap.JPG
+
 tags: [cleaning, visualisations]
 ---
 
