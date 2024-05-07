@@ -2,7 +2,7 @@
 layout: post
 title:  "Best Topics for Blog Posts"
 author: stew
-categories: [ Jekyll, tutorial ]
+categories: [ Python, Pandas ]
 image: assets/images/blog_posts.JPG
 tags: [sticky]
 ---
