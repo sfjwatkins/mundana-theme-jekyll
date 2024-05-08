@@ -5,7 +5,7 @@ author: stew
 categories: [ Python, Pandas ]
 image: assets/images/finbert_sentiment.JPG
 
-tags: [cleaning, visualisations]
+tags: [sticky]
 ---
 
 The client for this project is the Bank of England. Here is an excerpt from the project briefing, profiling the Bank:
