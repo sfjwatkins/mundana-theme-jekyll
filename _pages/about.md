@@ -1,6 +1,6 @@
 ---
 title: "About"
-layout: post
+layout: page
 permalink: "/about.html"
 image: assets/images/demo1.jpg
 comments: false
