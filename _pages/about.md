@@ -2,7 +2,7 @@
 title: "About"
 layout: page
 permalink: "/about.html"
-image: "/assets/images/my_pic.JPG"
+image: assets/images/demo1.jpg
 comments: false
 ---
 
