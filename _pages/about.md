@@ -12,3 +12,5 @@ comments: false
 
 
 Additional text here
+
+![walking]({{ site.baseurl }}/assets/images/3.jpg)
