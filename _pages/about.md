@@ -6,6 +6,8 @@ image: assets/images/demo1.jpg
 comments: false
 ---
 
+{% if page.subtitle %}{{ page.subtitle }}{% endif %}
+
  {{ site.description }}
 
 
