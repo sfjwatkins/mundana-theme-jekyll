@@ -1,14 +1,9 @@
 ---
-title: "Markup: Image Alignment"
-categories:
-  - Markup
-tags:
-  - alignment
-  - captions
-  - content
-  - css
-  - image
-  - markup
+title: "About"
+layout: page
+permalink: "/about.html"
+image: assets/images/demo1.jpg
+comments: false
 ---
 
 Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let's get started.
