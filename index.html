@@ -16,8 +16,9 @@ subtitle: 'site tagline that appears below site title in masthead'
 {% if page.url == "/" %}  
     
 <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
+{{ site.subtitle }}
 <div class="row remove-site-content-margin">
-    {{ site.subtitle }}
+   
     <!-- latest post -->
     {% assign latest_post = site.posts[0] %}
     <div class="col-md-6">
