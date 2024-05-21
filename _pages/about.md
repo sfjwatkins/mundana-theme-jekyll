@@ -9,7 +9,7 @@ comments: false
 
 Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let's get started.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/.selfie3.jpg){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/selfie3.jpg){: .align-center}
 
 The image above happens to be **centered**.
 
