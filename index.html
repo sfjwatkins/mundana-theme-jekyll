@@ -7,7 +7,7 @@ description: "A great Jekyll theme developed by Sal @wowthemesnet."
 subtitle: 'site tagline that appears below site title in masthead'
 
 ---
-{{ site.subtitle }}
+
 
 <div class="container">
 
@@ -17,7 +17,7 @@ subtitle: 'site tagline that appears below site title in masthead'
     
 <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
 <div class="row remove-site-content-margin">
-    
+    {{ site.subtitle }}
     <!-- latest post -->
     {% assign latest_post = site.posts[0] %}
     <div class="col-md-6">
