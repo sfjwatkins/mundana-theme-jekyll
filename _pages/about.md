@@ -6,7 +6,7 @@ image: assets/images/demo1.jpg
 comments: false
 ---
 
-{{ page.subtitle }}
+{{ site.subtitle }}
 
  {{ site.description }}
 
