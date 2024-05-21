@@ -7,11 +7,12 @@ baseurl: '/stewart-watkins-portfolio'
 disqus: 'demowebsite'
 email: 'stewartwatkins@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+subtitle: 'site tagline that appears below site title in masthead'
 
 include: ["_pages"]
 permalink: /:title/
 
-subtitle: "site tagline that appears below site title in masthead"
+
 
 # Plugins
 plugins: 
