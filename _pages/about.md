@@ -10,7 +10,7 @@ The rest of this paragraph is filler for the sake of seeing the text wrap around
 
 <!--Image container start-->
 <div class="box">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/selfie3.jpg" alt="Pic of me" float: left; margin: 5px;>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/selfie3.jpg" alt="Pic of me" style="float: left; margin: 5px;">
 </div>
 <!--Image container end-->
     
