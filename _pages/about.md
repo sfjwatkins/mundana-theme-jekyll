@@ -6,6 +6,9 @@ image: assets/images/demo1.jpg
 comments: false
 ---
 
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/image-alignment-580x300.jpg){: .align-center}
+
+
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/selfie3.jpg){: .align-center}
 
 The image above happens to be **centered**.
