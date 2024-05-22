@@ -5,6 +5,8 @@ permalink: "/about.html"
 image: assets/images/demo1.jpg
 comments: false
 ---
+<p style="text-align:center;"><img src="{{ site.url }}{{ site.baseurl }}/assets/images/selfie3.jpg" alt="Logo"></p>
+
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/image-alignment-580x300.jpg){: .align-center}
 
