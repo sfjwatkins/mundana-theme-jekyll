@@ -8,10 +8,10 @@ permalink: "/contact.html"
 <p class="mb-4">Please contact me and I will be in touch as soon as possible!</p>
 <div class="form-group row">
 <div class="col-md-6">
-<input class="form-control" type="text" name="name" placeholder="Name*" required>
+<input class="form-control" type="email" name="email" placeholder="Stewart" required>
 </div>
 <div class="col-md-6">
-<input class="form-control" type="email" name="_replyto" placeholder="E-mail Address*" required>
+<input class="form-control" type="email" name="_replyto" placeholder="stewartwatkins@gmail.com" required>
 </div>
 </div>
 <textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
