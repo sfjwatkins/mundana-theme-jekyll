@@ -7,12 +7,9 @@ comments: false
 ---
 <!--Image container start-->
 <div class="box">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/selfie3.jpg" alt="Pic of me" style="float: left 
-    width="400" 
-  height="500"  ; margin: 15px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/selfie3.jpg" alt="Pic of me" width="400" height="500" style="float: left margin: 15px;">
 </div>
 <!--Image container end-->
-    
 
 <div>
   <p> I am a data analyst based in Brighton, UK- nice to meet you! <br><br>
