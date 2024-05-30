@@ -20,7 +20,7 @@ comments: false
 <br>
 My approach is underpinned by my training as a social scientist (BSC in Psychology, MSc in Research Methods) and, more recently, the technical training I received on the London School of Economics Career Accelerator. 
   
-  , </p>
+ </p>
 </div>
 
 
