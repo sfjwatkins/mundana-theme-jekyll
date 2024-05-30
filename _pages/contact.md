@@ -13,4 +13,4 @@ permalink: "/contact.html"
   </label>
   <!-- your other form fields go here -->
   <button type="submit">Send</button>
-</form>
+
