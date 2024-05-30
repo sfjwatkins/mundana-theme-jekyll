@@ -13,9 +13,7 @@ comments: false
 
 <div>
   <p> I am a data analyst based in Brighton, UK- nice to meet you! <br><br>
-    Drawing on years of management experience in the education sector (FE, HE, language travel), I am a problem-solver, strategic thinker and specialist in getting to the heart of an issue and identifying actionable insights. <br><br>
-    
-My approach is underpinned by my training as a social scientist (BSC in Psychology, MSc in Research Methods) and, more recently, the technical training I received on the London School of Economics Career Accelerator. <br><br>
+    Drawing on years of management experience in the education sector (FE, HE, language travel), I am a problem-solver, strategic thinker and specialist in getting to the heart of an issue and identifying actionable insights. My approach is underpinned by my training as a social scientist (BSC in Psychology, MSc in Research Methods) and, more recently, the technical training I received on the London School of Economics Career Accelerator. <br><br>
 
 
   
