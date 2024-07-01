@@ -16,6 +16,5 @@ Responses to 90 survey questions by 260 undergraduate students.
 **Analysis** <br>
 I cleaned the data using Excel and Python, then used Tableau to create an interactive dashboard for each over-arching questions of the survey. 
 
-> Quote here
 
 
