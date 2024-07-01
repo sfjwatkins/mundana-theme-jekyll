@@ -12,7 +12,7 @@ comments: false
 <!--Image container end-->
 
 <div>
-  <p> <br><br>I am a data analyst based in Brighton, UK- nice to meet you! <br><br>
+  <p> <br>I am a data analyst based in Brighton, UK- nice to meet you! <br><br>
     
     A problem-solver, strategic thinker and specialist at getting to the heart of an issue, I love deriving actionable insights from data to help inform business decisions. <br><br>
 
