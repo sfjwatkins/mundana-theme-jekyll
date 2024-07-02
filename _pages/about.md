@@ -8,10 +8,7 @@ comments: false
 <!--Image container start-->
 <div class="box">
 
-<figure>
 <img src="{{ site.url }}{{ site.baseurl }}/assets/images/selfie3.jpg" alt="Pic of me" style="float: left; margin: 15px;" >
-<figcaption>16-Bit RGB Image</figcaption>
-</figure> 
 
 </div>
 <!--Image container end-->
