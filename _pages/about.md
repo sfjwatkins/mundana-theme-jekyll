@@ -7,8 +7,14 @@ comments: false
 ---
 <!--Image container start-->
 <div class="box">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/selfie3.jpg" alt="Pic of me" style="float: left; margin: 15px;" width="400" 
-     height="500">
+
+    
+   
+</figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/selfie3.jpg" alt="Pic of me" style="float: left; margin: 15px;" width="300" 
+     height="400">
+  <figcaption>Caption goes here</figcaption>
+  <figure>
 </div>
 <!--Image container end-->
 
