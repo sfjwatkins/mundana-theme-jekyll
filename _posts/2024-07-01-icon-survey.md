@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "ICON College Student Survey"
 author: Stewart
 categories: [ tableau ]
