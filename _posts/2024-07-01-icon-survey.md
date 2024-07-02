@@ -14,7 +14,7 @@ ICON College is an independent College of Higher Education in Central London. As
 The goal of this project was to analyse the surveys and create a dashboard that could be used by ICON management to delve into the data.
 
 **The data** <br>
-Responses to 90 survey questions by 260 undergraduate students.
+Responses to 90 survey questions by c.400 undergraduate students.
 
 **Analysis** <br>
 I cleaned the data using Excel and Python, then used Tableau to create an interactive dashboard for each over-arching questions of the survey. 
