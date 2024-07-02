@@ -5,11 +5,10 @@ permalink: "/about.html"
 image: assets/images/demo1.jpg
 comments: false
 ---
+
 <!--Image container start-->
 <div class="box">
-
-<img src="{{ site.url }}{{ site.baseurl }}/assets/images/selfie3.jpg" alt="Pic of me" style="float: left; margin: 15px;" >
-
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/selfie3.jpg" alt="Pic of me" style="float: left; margin: 15px;">
 </div>
 <!--Image container end-->
 
