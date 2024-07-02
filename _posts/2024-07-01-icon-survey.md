@@ -3,7 +3,7 @@ layout: post
 title:  "ICON College Student Survey"
 author: Stewart
 categories: [ tableau ]
-image: assets/images/17.jpg
+image: assets/images/Icon_dashboard.png
 tags: [featured]
 ---
 
